@@ -1,11 +1,10 @@
 💜 Hey Everyone 💜
 
-I'm a Software Engineer with experience in AI/LLM. I've worked at Cruise and Microsoft.
+I'm a Staff Software Engineer building at the intersection of AI agents and developer infrastructure. 18 years across systems, cloud, and platform engineering.
 
-💡 Passionate about stock trading.
-⚡ Always exploring new technologies.
-📷 In my free time, I enjoy photography with my Canon EOS R8.
+🛠️ Currently leading a Developer Platform team — agentic workflows, MCP integrations, Claude Code deployment, and Go/Kubernetes tooling for GPU cloud infrastructure.
 
-Let's connect and build something awesome! 🚀
+🚀 Tinkering with ideas around AI native developer tools.
+☕ Off-hours: coffee, cooking, gaming.
 
-You can find out more information about me by clicking [here](https://www.linkedin.com/in/suannai231/).
+Always down to chat about agentic systems, platform engineering, or what's next in AI infra. Let's build something awesome! 🚀
